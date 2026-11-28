@@ -32,17 +32,6 @@
 <br />
 
 <div align="center">
-  <h3>Core Focus</h3>
-  <p>
-    <b>Reverse Engineering</b> — Dynamic analysis, function hooking, memory inspection, and runtime behavior modification.<br />
-    <b>Software Development</b> — Native mobile development, automation scripting, Kernel system r/w development and pentesting.<br />
-    <b>Cinematic Video Editing</b> — Color grading, pacing, visual storytelling, and post-production compositing.
-  </p>
-</div>
-
-<br />
-
-<div align="center">
   <h3>GitHub Stats</h3>
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
